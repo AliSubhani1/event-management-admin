@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { ButtonColor } from '../Utils/constants';
+import { ButtonColor } from '../../Utils/constants';
 
 type CustomButtonProps = {
   id?: string;

@@ -4,3 +4,8 @@ export enum ButtonColor {
     White = 'text-blue-1 bg-white-0 hover:opacity-80 border border-blue-1',
     Red = 'text-red-0 bg-white-0 hover:opacity-80 border border-red-0',
   }
+
+  export enum Navigation {
+    DEFAULT = '/',
+    DASHBOARD = '/dashboard',
+  }
